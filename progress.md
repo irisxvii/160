@@ -9,6 +9,12 @@
   - at first when i submitted the ansr i forgot to check if the value in second_largest had updated, and returned second_largest. so when the input is [12 12 12] it returns 0 and not -1. then i changed it.
   - i had initially put largest= arr[0] and second_largest= arr[1] but it will give wrong ansrs if there are only 2 elements
 ### status:✅
+## 2. [Move Zeros to End](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/move-all-zeroes-to-end-of-array0751)
+### approach: <br/>
+- print all the non zero elements first and then fill the remaining length with zeros
+### challenge: <br/>
+- this was fairly easier than the last one but i first tried swapping the numbers which didnt work out well
+### status:✅
 ## Week 1 summary
-- total qstns solved: 1
+- total qstns solved: 2
 - topics covered: arrays
