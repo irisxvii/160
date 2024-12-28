@@ -22,6 +22,27 @@
 ### challenge: <br/>
 - even tho ive been reversing arrays all my life.. i forgot to use temp to switch and swapped using sm other stupid way initially and got arrayOutOfBoundsException
 
+# Day 2: 28 dec
+## 1. [Rotate Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/rotate-array-by-n-elements-1587115621)✅
+### approach: <br/>
+- reverse 0 to d-1, reverse d to n-1, reverse the whole final array (0 to n-1) where n is the length
+### challenge: <br/>
+- i approached it in a diff way but ended up being arrayOutOfBounds as usual. what i did was, i put the values of index 0 to n-d in a[len-d] till d and then put the rest of values from the start of the final array but thats not right
+### takeaways <br/>
+- observe the output carefully and see if we can reverse shit and use while loop
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Week 1 summary
 - total qstns solved: 3
 - topics covered: arrays
