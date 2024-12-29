@@ -44,6 +44,12 @@
 - i couldnt complete the code i was writin cause it felt real complex, like i was getting nowhere so i stopped
 - ill get back to this later
 
+# Day 3: 29 dec
+## 1. [Majority element](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/majority-vote)✅
+### approach: <br/>
+- i used hashing here. theres also one more algorithm we can use i'll work on it tomorrow.
+### challenge: <br/>
+- i dont quite understand hashing and its fnsshould work more on it.
 
 
 
@@ -56,5 +62,5 @@
 
 
 ## Week 1 summary
-- total qstns solved: 3
+- total qstns solved: 5
 - topics covered: arrays
