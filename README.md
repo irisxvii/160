@@ -23,8 +23,9 @@
     </tr>
     <tr>
       <td align="center">3</td>
-      <td align="center">...</td>
-      <td>...</td>
+      <td align="center">1</td>
+      <td>Arrays</td>
+      <td>29 Dec</td>
     </tr>
     <tr>
       <td align="center">4</td>
