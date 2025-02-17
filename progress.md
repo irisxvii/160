@@ -50,17 +50,16 @@
 - i used hashing here. theres also one more algorithm we can use i'll work on it tomorrow.
 ### challenge: <br/>
 - i dont quite understand hashing and its fnsshould work more on it.
-
-
-
-
-
-
-
-
-
-
-
 ## Week 1 summary
 - total qstns solved: 5
 - topics covered: arrays
+
+
+
+
+
+# Day 4: 16 Feb
+## 1. [Can Place Flowers](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/majority-vote)✅
+### approach bookil ond
+# Day 5: 17 Feb
+## 1. [String Compression](https://leetcode.com/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75)✅
