@@ -23,7 +23,7 @@
 - even tho ive been reversing arrays all my life.. i forgot to use temp to switch and swapped using sm other stupid way initially and got arrayOutOfBoundsException
 
 # Day 2: 28 dec
-## 1. [Rotate Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/rotate-array-by-n-elements-1587115621)✅
+## 4. [Rotate Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/rotate-array-by-n-elements-1587115621)✅
 ### approach: <br/>
 - reverse 0 to d-1, reverse d to n-1, reverse the whole final array (0 to n-1) where n is the length
 ### challenge: <br/>
@@ -32,7 +32,7 @@
 ### takeaways <br/>
 - observe the output carefully and see if we can reverse shit and use while loop
 
-## 2. [Next Permutation](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/next-permutation5226)❌
+## 5. [Next Permutation](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/next-permutation5226)❌
 ### logic: <br/>
 - traverse thru the array from the right
 - find a number which is less than the next number arr[k]<arr[k+1]
@@ -45,21 +45,16 @@
 - ill get back to this later
 
 # Day 3: 29 dec
-## 1. [Majority element](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/majority-vote)✅
+## 6. [Majority element](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/majority-vote)✅
 ### approach: <br/>
 - i used hashing here. theres also one more algorithm we can use i'll work on it tomorrow.
 ### challenge: <br/>
 - i dont quite understand hashing and its fnsshould work more on it.
-## Week 1 summary
-- total qstns solved: 5
-- topics covered: arrays
 
-
-
-
-
-# Day 4: 16 Feb
-## 1. [Can Place Flowers](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/majority-vote)✅
 ### approach bookil ond
-# Day 5: 17 Feb
-## 1. [String Compression](https://leetcode.com/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75)✅
+
+## Day 4: 16 Feb
+### 7. [Can Place Flowers](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/majority-vote)✅
+## Day 5: 17 Feb
+### 8. [String Compression](https://leetcode.com/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75)✅
+### 9. [Reverse Vowels](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)✅
