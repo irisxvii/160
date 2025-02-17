@@ -33,5 +33,11 @@
       <td>Arrays</td>
       <td>16 Feb</td>
     </tr>
+    <tr>
+      <td align="center">5</td>
+      <td align="center">2</td>
+      <td>Arrays & Strings</td>
+      <td>17 Feb</td>
+    </tr>
   </tbody>
 </table>
