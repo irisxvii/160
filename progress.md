@@ -58,3 +58,5 @@
 ## Day 5: 17 Feb
 ### 8. [String Compression](https://leetcode.com/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75)✅
 ### 9. [Reverse Vowels](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)✅
+## Day 6: 18 Feb
+### 10. [GCD of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75)✅
