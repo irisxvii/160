@@ -54,9 +54,11 @@
 ### approach bookil ond
 
 ## Day 4: 16 Feb
-### 7. [Can Place Flowers](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/majority-vote)✅
+### 7. [Can Place Flowers](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/majority-vote) ✅
 ## Day 5: 17 Feb
-### 8. [String Compression](https://leetcode.com/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75)✅
-### 9. [Reverse Vowels](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)✅
+### 8. [String Compression](https://leetcode.com/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75) ✅
+### 9. [Reverse Vowels](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) ✅
 ## Day 6: 18 Feb
-### 10. [GCD of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75)✅
+### 10. [GCD of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75) ✅
+## Day 7: 21 Feb 
+### 11. [Remove Star from String](https://leetcode.com/problems/removing-stars-from-a-string/?envType=study-plan-v2&envId=leetcode-75) ✅
