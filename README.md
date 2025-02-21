@@ -36,7 +36,7 @@
     <tr>
       <td align="center">5</td>
       <td align="center">2</td>
-      <td>Arrays & Strings</td>
+      <td>Arrays, Strings</td>
       <td>17 Feb</td>
     </tr>
     <tr>
@@ -44,6 +44,12 @@
       <td align="center">1</td>
       <td>Strings</td>
       <td>18 Feb</td>
+    </tr>
+    <tr>
+      <td align="center">7</td>
+      <td align="center">2</td>
+      <td>Stack, String</td>
+      <td>21 Feb</td>
     </tr>
   </tbody>
 </table>
